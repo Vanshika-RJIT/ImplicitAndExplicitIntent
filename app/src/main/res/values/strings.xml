@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImplicitAndExplicitIntent</string>
+    <string name="label_login_btn">login</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="str_welcome">Welcome</string>
+    <string name="str_label_capture_button">Capture Image From Gallery</string>
+</resources>
